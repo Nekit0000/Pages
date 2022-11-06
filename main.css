@@ -270,6 +270,7 @@ html, body {
     width: 399;
     box-shadow: 3px 3px 3px darkgrey;
     float: left;
+    padding-left: 7px;
 }
 
 
